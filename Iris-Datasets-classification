@@ -6,19 +6,13 @@
    "metadata": {},
    "source": [
     "\n",
-    "The Spark Foundation\n",
-    "Graduate Rotational Internship Program (GRIP)\n",
-    "Data Science and Business Analytics\n",
-    "Name of the Student:GOWTHAM CP\n",
-    "Branch: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE\n",
-    "Task Name: Prediction using unsupervised Machine Learning\n",
     "About the task:\n",
     "Task 2: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.\n",
     "Iris Datasets:(GIVEN)\n",
     "Iris is a family of flower which contains three type of flower called setosa ,versicolor and Virginica.\n",
-    "Dataset is given on this link you can download it by clicking on this link https://bit.ly/3kXTdox\n",
+    "Dataset:https://bit.ly/3kXTdox\n",
     "Problem:\n",
-    "The problem is that, we have given some features of a flower, and based on these features we have to identify which flower belongs to which category.\n",
+    ".\n",
     "\n"
    ]
   },
